@@ -7,8 +7,8 @@
  Anaconda3 (Jupyter Notebook)
 
  ## repository structure
-  python_ds
-    |
-    |--binomial_distribution
-    |       |
-    |       |--coin_toss
+  python_ds<br/>
+    |<br/>
+    |--binomial_distribution<br/>
+    |       |<br/>
+    |       |--coin_toss<br/>
