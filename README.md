@@ -7,7 +7,7 @@
 ## repository structure
     .
     ├── binomial_distribution
-                            ├── coin_toss
+                            └── coin_toss
     ├── .gitignore
     ├── LICENSE
     └── README.md
